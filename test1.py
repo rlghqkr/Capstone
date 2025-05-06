@@ -199,7 +199,7 @@ def setup_sidebar():
     
     with st.sidebar.expander("🤪 Contributors", expanded=False):
         st.markdown("""
-                    ## Leader: 😝박기호
+                    ## Leader: 😝박기호호호
                     ### Member1 : 🤑김태윤
                     ### Memeber2 : 👷‍♂️박현신 """)
         
